@@ -1,0 +1,232 @@
+@media only screen and (max-width: 1024px) {
+    .myvideo {
+        height: 45rem;
+    }
+    .tast_cont {
+        padding: 4rem;
+    }
+    .tast_img {
+        width: 95%;
+        height: 42rem;
+        margin-left: 3rem;
+    }
+    .gallery {
+        height: 15rem;
+    }
+    .Photos {
+        padding: 3rem;
+        margin-left: 0;
+    }
+    .mymap_2 {
+        width: 448px;
+        height: 300px;
+    }
+    .myvideo_con {
+        height: 60rem;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .navbar-nav.ml-auto {
+        background: rgb(0 0 0);
+    }
+    .navbar-nav a {
+        font-size: 14px;
+        font-weight: normal;
+    }
+    .about_p p {
+        padding-left: 0;
+    }
+    .route_text {
+        margin-top: 115%;
+    }
+    .route {
+        height: 75rem;
+    }
+    .gallery {
+        height: 10rem !important;
+    }
+    .Photos {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .price_card {
+        padding: 1rem !important;
+    }
+    .price_img button {
+        padding: 0px 15px;
+    }
+    .mymap_2 {
+        width: 300px;
+    }
+    .mymap_line {
+        margin-bottom: 2rem;
+    }
+    .bott_text_4 {
+        font-size: 13px;
+    }
+    .btn_my_show{
+        display: block;
+    }
+}
+@media (max-width: 576px) {
+    .hading_1 {
+        font-size: 20px;
+    }
+    .banner_text {
+        padding: 4rem;
+    }
+    .banner_text_2 {
+        font-size: 3rem;
+    }
+    .hading_2 {
+        font-size: 14px;
+        letter-spacing: 1px;
+    }
+
+    .benner {
+        height: 30rem;
+    }
+    .my_btn_show {
+        display: none;
+    }
+    .about_title {
+        color: #e31e25;
+        font-family: none;
+        font-weight: 900;
+        line-height: 1;
+        font-size: 42px;
+        text-transform: capitalize;
+    }
+    .about_line {
+        width: 10rem;
+        height: 3px;
+    }
+    .about_1_img {
+        height: 20rem;
+    }
+    .about_p {
+        margin-top: 1rem;
+    }
+
+    .myvideo {
+        height: 38rem;
+    }
+
+    .video_cont {
+        padding: 2rem;
+    }
+    .video_cont h3 {
+        font-size: 20px;
+    }
+
+    .video_cont p {
+        letter-spacing: 2px;
+        font-size: 14px;
+        font-weight: 700;
+        margin-bottom: 2rem;
+    }
+
+    .play_video_2 {
+        width: 308px;
+        height: 230px;
+    }
+
+    .play_video {
+        display: block;
+    }
+    .about_p_2 {
+        margin-top: 1rem;
+    }
+    .about_p_2 p {
+        padding-left: 0;
+        text-align: unset;
+        margin-bottom: -24px;
+    }
+    .event_rules {
+        display: block;
+        margin-top: 1rem;
+    }
+    .route_img {
+        height: 15rem;
+    }
+    .route {
+        height: 85rem;
+    }
+
+    .faq_my {
+        margin-left: 0;
+        margin-top: 2rem;
+    }
+    .mytitle_1 {
+        font-size: 14px;
+    }
+
+    .tast_cont {
+        padding: 2rem;
+    }
+    .test_my_p {
+        font-size: 13px;
+        margin-bottom: 2rem;
+    }
+    .tast_cont h3 {
+        font-size: 17px;
+    }
+    .my_photo_new {
+        display: none;
+    }
+    .gallery {
+        padding: 0 !important;
+    }
+    .gallery_2 {
+        margin-bottom: 0rem;
+        padding: 0px !important;
+    }
+    .price_card {
+        padding: 0 !important;
+        margin-top: 2rem;
+    }
+
+    .price_img button {
+        padding: 0px 37px;
+    }
+    .sport_img {
+        height: 7rem;
+    }
+
+    .mymap {
+        margin-left: 0rem;
+    }
+    .mymap_2 {
+        width: 330px;
+    }
+    .mymap_addr {
+        font-size: 13px;
+        margin-bottom: 0 !important;
+    }
+    .mymap_email {
+        margin-top: 0rem;
+        margin-bottom: 0rem;
+    }
+
+    .mymap_phone {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .bott_text_3 {
+        margin-right: 2rem;
+    }
+    .bott_text_2 {
+        margin-left: 2rem;
+    }
+    .bott_text_4 {
+        font-size: 11px;
+    }
+
+    .bott_text {
+        font-size: 19px;
+    }
+    .btn_my_show{
+        display: block;
+    }
+}
